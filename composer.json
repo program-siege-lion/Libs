@@ -1,0 +1,21 @@
+{
+    "name": "sunxiaolei/blog",
+    "description": "this is guangtouqiang test bag",
+    "type": "1",
+    "require": {
+        "php": "7.2.19"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "sunxiaolei",
+            "email": "sun_shao_lei@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "sunxiaolei\\": "src/sunxiaolei"
+        }
+    }
+}
